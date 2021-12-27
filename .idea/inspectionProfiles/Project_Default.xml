@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="colorama" />
+            <item index="1" class="java.lang.String" itemvalue="update-checker" />
+            <item index="2" class="java.lang.String" itemvalue="certifi" />
+            <item index="3" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="4" class="java.lang.String" itemvalue="webdriver-manager" />
+            <item index="5" class="java.lang.String" itemvalue="praw" />
+            <item index="6" class="java.lang.String" itemvalue="prawcore" />
+            <item index="7" class="java.lang.String" itemvalue="crayons" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
